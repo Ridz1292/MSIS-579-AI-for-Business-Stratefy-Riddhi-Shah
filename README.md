@@ -8,6 +8,10 @@ This repository documents my participation in the Week 1 AI Hackathon where our 
 ## Live Application
 The live application can be accessed here: [Risk Escalator App](https://risk-escalator.streamlit.app/)
 
+## Video of the Application working
+https://drive.google.com/file/d/1JiH2ecKEQhtEf3hVPBZivk-mhQaEOYWu/view?usp=sharing
+
+
 ## My Contributions
 As a team member on this project, I contributed to:
 - The brainstorming for the project solutions
